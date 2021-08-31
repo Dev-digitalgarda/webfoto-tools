@@ -1,0 +1,19 @@
+{
+  "name": "webfoto-utils",
+  "version": "1.0.0",
+  "description": "Utils for the webfoto project",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dree": "^2.8.3",
+    "euberlog": "^2.0.18"
+  },
+  "devDependencies": {
+    "@types/node": "^16.6.2",
+    "ts-node": "^10.2.1"
+  }
+}
